@@ -244,6 +244,7 @@ dayjs()
           {{ item?.heading }}
         </div>
       </div>
+    </div>
     <div class="xl:!ml-64 px-3 pt-4">
       <!-- header -->
       <div
