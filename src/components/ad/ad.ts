@@ -10,11 +10,11 @@ export const confs: Record<string, ADConfig> = {
         apiKey: 'XXXX_api_key_staging_XXXX', // An actual API key is generated once you register an app with us.
         environment: 'staging', // use value 'production' when going live
     },
-    "ping.pub": {
+    "kzvn.xyz": {
         apiKey: 'persona-pub-0x6ca028de83d9bc438bb3fd7f9620f36b',
         environment: 'production',
     },
-    "testnet.ping.pub": {
+    "testnet.kzvn.xyz": {
         apiKey: 'persona-pub-0x14e9ba8ca5a658ba409fc0059ebc3711',
         environment: 'production',
     }
@@ -27,11 +27,11 @@ export const UNITS: Record<string, Record<string, string>> = {
         "banner_mobile": "e6b82a11-6a94-46c0-a9d2-cf730159a5e6",
         "popup": "e6b82a11-6a94-46c0-a9d2-cf730159a5e6"
     },
-    "ping.pub": {
+    "kzvn.xyz": {
         "banner": "6883877a-ccae-4a08-b457-7e30b3465a8c",
         "banner_mobile": "a95c6b55-5e2a-49eb-8993-a488513b2d10",
     },
-    "testnet.ping.pub": {
+    "testnet.kzvn.xyz": {
         "banner": "1644951b-5022-4544-8a85-11aef8a8f645",
         "banner_mobile": "81e0527f-475a-42a4-bb9a-ed9967c5d06f",
         "popup": "bd77a47c-30fc-4592-9d37-616d4f66964d",
