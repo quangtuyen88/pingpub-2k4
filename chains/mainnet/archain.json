@@ -1,0 +1,19 @@
+{
+    "chain_name": "airchains",
+    "registry_name": "junction",
+    "api": [
+        {"provider": "dragonvn", "address": "https://junction-api.kzvn.xyz"}
+    ],
+    "rpc": [
+        {"provider": "dragonvn", "address": "https://junction-rpc.kzvn.xyz"}
+    ],
+    "sdk_version": "v0.50.5",
+    "logo": "/logos/junction.png",
+    "assets": [{
+        "base": "amf",
+        "symbol": "AMF",
+        "exponent": "6",
+        "coingecko_id": "AMF",
+        "logo": "/logos/junction.png"
+    }]
+}

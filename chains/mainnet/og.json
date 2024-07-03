@@ -1,0 +1,19 @@
+{
+    "chain_name": "0g-testnet",
+    "registry_name": "0g-testnet",
+    "api": [
+        {"provider": "dragonvn", "address": "https://og-testnet-api.kzvn.xyz"}
+    ],
+    "rpc": [
+        {"provider": "dragonvn", "address": "https://og-testnet-rpc.kzvn.xyz"}
+    ],
+    "sdk_version": "v0.50.5",
+    "logo": "/logos/og.png",
+    "assets": [{
+        "base": "ua0gi",
+        "symbol": "A0GI",
+        "exponent": "6",
+        "coingecko_id": "A0GI",
+        "logo": "/logos/og.png"
+    }]
+}

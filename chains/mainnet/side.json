@@ -1,0 +1,19 @@
+{
+    "chain_name": "S2-testnet-2",
+    "registry_name": "side",
+    "api": [
+        {"provider": "dragonvn", "address": "https://side-api.kzvn.xyz"}
+    ],
+    "rpc": [
+        {"provider": "dragonvn", "address": "https://side-rpc.kzvn.xyz"}
+    ],
+    "sdk_version": "v0.50.5",
+    "logo": "/logos/side.png",
+    "assets": [{
+        "base": "uside",
+        "symbol": "SIDE",
+        "exponent": "6",
+        "coingecko_id": "SIDE",
+        "logo": "/logos/side.png"
+    }]
+}

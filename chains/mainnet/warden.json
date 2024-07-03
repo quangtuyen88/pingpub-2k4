@@ -1,0 +1,20 @@
+{
+    "chain_name": "buenavista-1",
+    "registry_name": "warden",
+    "api": [
+        {"provider": "dragonvn", "address": "https://warden-api.kzvn.xyz"}
+    ],
+    "rpc": [
+        {"provider": "dragonvn", "address": "https://warden-rpc.kzvn.xyz"}
+    ],
+    "sdk_version": "v0.50.5",
+    "logo": "/logos/warden.png",
+    "assets": [{
+        "base": "uward",
+        "symbol": "WARD",
+        "exponent": "6",
+        "coingecko_id": "WARD",
+        "logo": "/logos/warden.png"
+    }]
+}
+
