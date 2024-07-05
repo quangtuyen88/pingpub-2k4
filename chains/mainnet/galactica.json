@@ -7,7 +7,7 @@
     "logo": "/logos/galactica.png",
     "theme_color": "#007CB2",
     "assets": [{
-        "base": "agnet",
+        "base": "uagnet",
         "symbol": "GNET",
         "exponent": "6",
         "coingecko_id": "GNET",
