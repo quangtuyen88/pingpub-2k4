@@ -2,10 +2,10 @@
     "chain_name": "Galactica-testnet",
     "registry_name": "Galactica",
     "api": [
-        {"provider": "dragonvn", "address": "https://galactica-api.kzvn.xyz"}
+        "https://galactica-testnet-rest.cosmoscan.com", "https://galactica-api.kzvn.xyz"
     ],
     "rpc": [
-        {"provider": "dragonvn", "address": "https://galactica-rpc.kzvn.xyz"}
+        "https://galactica-testnet-rpc.cosmoscan.com","https://galactica-rpc.kzvn.xyz"
     ],
     "sdk_version": "v0.50.5",
     "logo": "/logos/galactica.png",
