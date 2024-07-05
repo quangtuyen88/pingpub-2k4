@@ -8,7 +8,7 @@
     "theme_color": "#007CB2",
     "coin_type": "118",
     "assets": [{
-        "base": "uagnet",
+        "base": "agnet",
         "symbol": "GNET",
         "exponent": "6",
         "coingecko_id": "GNET",
