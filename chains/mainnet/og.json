@@ -1,12 +1,8 @@
 {
     "chain_name": "0g-testnet",
     "registry_name": "0g-testnet",
-    "api": [
-        {"provider": "dragonvn", "address": "https://og-testnet-api.itrocket.net"}
-    ],
-    "rpc": [
-        {"provider": "dragonvn", "address": "https://og-testnet-rpc.itrocket.net"}
-    ],
+    "api": ["https://og-testnet-api.itrocket.net"],
+    "rpc": ["https://og-testnet-rpc.itrocket.net"],
     "sdk_version": "v0.50.5",
     "logo": "/logos/og.png",
     "assets": [{

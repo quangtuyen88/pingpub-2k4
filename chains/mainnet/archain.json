@@ -1,12 +1,8 @@
 {
     "chain_name": "airchains",
     "registry_name": "junction",
-    "api": [
-        {"provider": "dragonvn", "address": "https://airchains-testnet-api.itrocket.net"}
-    ],
-    "rpc": [
-        {"provider": "dragonvn", "address": "https://airchains-testnet-rpc.itrocket.net"}
-    ],
+    "api": ["https://airchains-testnet-api.itrocket.net"],
+    "rpc": ["https://airchains-testnet-rpc.itrocket.net"],
     "sdk_version": "v0.50.5",
     "logo": "/logos/junction.png",
     "assets": [{
