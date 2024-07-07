@@ -1,9 +1,9 @@
 {
     "chain_name": "Galactica-testnet",
     "registry_name": "Galactica",
-    "api": ["https://galactica-testnet-rest.cosmoscan.com", "https://galactica-api.kzvn.xyz"],
-    "rpc": ["https://galactica-testnet-rpc.cosmoscan.com", "https://galactica-rpc.kzvn.xyz"],
-    "sdk_version": "v0.50.5",
+    "api": ["https://galactica-testnet-rest.cosmoscan.com"],
+    "rpc": ["https://galactica-testnet-rpc.cosmoscan.com"],
+    "sdk_version": "v0.47.3",
     "logo": "/logos/galactica.png",
     "theme_color": "#007CB2",
     "coin_type": "118",

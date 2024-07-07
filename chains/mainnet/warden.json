@@ -2,10 +2,10 @@
     "chain_name": "buenavista-1",
     "registry_name": "warden",
     "api": [
-        {"provider": "dragonvn", "address": "https://warden-api.kzvn.xyz"}
+        {"provider": "dragonvn", "address": "https://testnet.warden.api.liveraven.net"}
     ],
     "rpc": [
-        {"provider": "dragonvn", "address": "https://warden-rpc.kzvn.xyz"}
+        {"provider": "dragonvn", "address": "https://testnet.warden.rpc.liveraven.net"}
     ],
     "sdk_version": "v0.50.5",
     "logo": "/logos/warden.png",

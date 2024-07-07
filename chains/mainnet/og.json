@@ -2,10 +2,10 @@
     "chain_name": "0g-testnet",
     "registry_name": "0g-testnet",
     "api": [
-        {"provider": "dragonvn", "address": "https://og-testnet-api.kzvn.xyz"}
+        {"provider": "dragonvn", "address": "https://og-testnet-api.itrocket.net"}
     ],
     "rpc": [
-        {"provider": "dragonvn", "address": "https://og-testnet-rpc.kzvn.xyz"}
+        {"provider": "dragonvn", "address": "https://og-testnet-rpc.itrocket.net"}
     ],
     "sdk_version": "v0.50.5",
     "logo": "/logos/og.png",
