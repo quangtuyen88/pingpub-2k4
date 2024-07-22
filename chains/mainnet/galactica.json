@@ -10,7 +10,7 @@
     "assets": [{
         "base": "agnet",
         "symbol": "GNET",
-        "exponent": "6",
+        "exponent": "18",
         "coingecko_id": "GNET",
         "logo": "/logos/galactica.png"
     }]
