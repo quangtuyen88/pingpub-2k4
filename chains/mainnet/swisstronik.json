@@ -1,0 +1,15 @@
+{
+    "chain_name": "swisstronik-testnet",
+    "registry_name": "swisstronik-testnet",
+    "api": ["https://api.testnet.swisstronik.com"],
+    "rpc": ["https://rpc.testnet.swisstronik.com"],
+    "sdk_version": "v0.47.5",
+    "logo": "/logos/swisstronik.png",
+    "assets": [{
+        "base": "uSWTR",
+        "symbol": "SWTR",
+        "exponent": "6",
+        "coingecko_id": "SWTR",
+        "logo": "/logos/swisstronik.png"
+    }]
+}

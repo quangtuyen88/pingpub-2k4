@@ -1,0 +1,19 @@
+{
+    "chain_name": "Nillion-testnet",
+    "registry_name": "nillion",
+    "api": [
+        {"provider": "dragonvn", "address": "https://nillion-testnet-api.polkachu.com"}
+    ],
+    "rpc": [
+        {"provider": "dragonvn", "address": "https://nillion-testnet-rpc.polkachu.com/"}
+    ],
+    "sdk_version": "v0.50.6",
+    "logo": "/logos/nillion.png",
+    "assets": [{
+        "base": "unil",
+        "symbol": "NIL",
+        "exponent": "6",
+        "coingecko_id": "NIL",
+        "logo": "/logos/nillion.png"
+    }]
+}
