@@ -6,9 +6,9 @@
     "sdk_version": "v0.47.5",
     "logo": "/logos/swisstronik.png",
     "assets": [{
-        "base": "uaswtr",
+        "base": "aswtr",
         "symbol": "aSWTR",
-        "exponent": "6",
+        "exponent": "18",
         "coingecko_id": "SWTR",
         "logo": "/logos/swisstronik.png"
     }]
