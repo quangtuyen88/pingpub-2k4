@@ -1,7 +1,7 @@
 {
     "chain_name": "swisstronik-testnet",
     "registry_name": "swisstronik-testnet",
-    "api": ["https://swisstronik-testnet-api.itrocket.net"],
+    "api": ["https://api.testnet.swisstronik.com"],
     "rpc": ["https://rpc-swisstronik.kzvn.xyz"],
     "sdk_version": "v0.47.5",
     "logo": "/logos/swisstronik.png",
