@@ -8,7 +8,7 @@
     "assets": [{
         "base": "ufia",
         "symbol": "FIA",
-        "exponent": "18",
+        "exponent": "6",
         "coingecko_id": "FIA",
         "logo": "/logos/fiamma.png"
     }]
