@@ -1,0 +1,15 @@
+{
+    "chain_name": "symphony-testnet",
+    "registry_name": "symphony-testnet",
+    "api": ["https://symphony-api.kleomedes.network", "https://symphony-testnet-api.kzvn.xyz"],
+    "rpc": ["https://symphony-rpc.kleomedes.network", "https://symphony-testnet-rpc.kzvn.xyz"],
+    "sdk_version": "v0.47.5",
+    "logo": "/logos/symphony.png",
+    "assets": [{
+        "base": "uMLD",
+        "symbol": "MLD",
+        "exponent": "18",
+        "coingecko_id": "MLD",
+        "logo": "/logos/symphony.png"
+    }]
+}

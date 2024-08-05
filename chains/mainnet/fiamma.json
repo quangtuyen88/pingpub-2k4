@@ -1,0 +1,15 @@
+{
+    "chain_name": "fiamma-testnet",
+    "registry_name": "fiamma-testnet",
+    "api": ["https://testnet-api.fiammachain.io", "https://fiamma-testnet-api.kzvn.xyz"],
+    "rpc": ["https://testnet-rpc.fiammachain.io", "https://fiamma-testnet-rpc.kzvn.xyz"],
+    "sdk_version": "v0.38.8",
+    "logo": "/logos/fiamma.png",
+    "assets": [{
+        "base": "ufia",
+        "symbol": "FIA",
+        "exponent": "18",
+        "coingecko_id": "FIA",
+        "logo": "/logos/fiamma.png"
+    }]
+}
