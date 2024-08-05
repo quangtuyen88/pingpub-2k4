@@ -6,7 +6,7 @@
     "sdk_version": "v0.47.5",
     "logo": "/logos/symphony.png",
     "assets": [{
-        "base": "uMLD",
+        "base": "unote",
         "symbol": "MLD",
         "exponent": "18",
         "coingecko_id": "MLD",
