@@ -8,7 +8,7 @@
     "assets": [{
         "base": "uloya",
         "symbol": "LOYA",
-        "exponent": "18",
+        "exponent": "6",
         "coingecko_id": "LOYA",
         "logo": "/logos/layer.png"
     }]
