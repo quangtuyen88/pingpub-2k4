@@ -7,9 +7,9 @@
     "logo": "/logos/layer.png",
     "assets": [{
         "base": "uloya",
-        "symbol": "loya",
+        "symbol": "LOYA",
         "exponent": "18",
-        "coingecko_id": "loya",
+        "coingecko_id": "LOYA",
         "logo": "/logos/layer.png"
     }]
 }
