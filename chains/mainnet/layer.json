@@ -1,0 +1,15 @@
+{
+    "chain_name": "layer-testnet",
+    "registry_name": "layer-testnet",
+    "api": ["https://layer-testnet-api.kzvn.xyz"],
+    "rpc": ["https://layer-testnet-rpc.kzvn.xyz"],
+    "sdk_version": "v0.38.8",
+    "logo": "/logos/layer.png",
+    "assets": [{
+        "base": "uloya",
+        "symbol": "loya",
+        "exponent": "18",
+        "coingecko_id": "loya",
+        "logo": "/logos/layer.png"
+    }]
+}
