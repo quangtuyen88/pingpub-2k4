@@ -1,0 +1,24 @@
+{
+    "chain_name": "laconic-testnet",
+    "registry_name": "laconic-testnet",
+    "api":
+    [
+        "https://testnet-api.fiammachain.io"
+    ],
+    "rpc":
+    [
+        "https://laconicd.laconic.com"
+    ],
+    "sdk_version": "v0.38.8",
+    "logo": "/logos/laconic.png",
+    "assets":
+    [
+        {
+            "base": "alnt",
+            "symbol": "LNT",
+            "exponent": "18",
+            "coingecko_id": "alnt",
+            "logo": "/logos/laconic.png"
+        }
+    ]
+}
