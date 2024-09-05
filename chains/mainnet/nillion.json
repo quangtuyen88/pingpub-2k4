@@ -1,15 +1,27 @@
 {
     "chain_name": "Nillion-testnet",
     "registry_name": "nillion",
-    "api": ["https://nillion-testnet-api.polkachu.com", "https://nillion-testnet.api.kjnodes.com"],
-    "rpc": ["https://nillion-testnet-rpc.polkachu.com", "https://nillion-testnet.rpc.kjnodes.com"],
+    "api":
+    [
+        "https://nillion-testnet-api.polkachu.com",
+        "https://nillion-testnet.api.kjnodes.com"
+    ],
+    "rpc":
+    [
+        "https://nillion-testnet-rpc.polkachu.com",
+        "https://nillion-testnet.rpc.kjnodes.com",
+        "https://testnet-nillion-rpc.lavenderfive.com"
+    ],
     "sdk_version": "v0.50.6",
     "logo": "/logos/nillion.png",
-    "assets": [{
-        "base": "unil",
-        "symbol": "NIL",
-        "exponent": "6",
-        "coingecko_id": "NIL",
-        "logo": "/logos/nillion.png"
-    }]
+    "assets":
+    [
+        {
+            "base": "unil",
+            "symbol": "NIL",
+            "exponent": "6",
+            "coingecko_id": "NIL",
+            "logo": "/logos/nillion.png"
+        }
+    ]
 }
