@@ -1,16 +1,26 @@
 {
-    "chain_name": "buenavista-1",
+    "chain_name": "warden",
     "registry_name": "warden",
-    "api": [ "https://testnet.warden.api.liveraven.net", "https://warden-testnet-api.itrocket.net"],
-    "rpc": ["https://testnet.warden.rpc.liveraven.net", "https://warden-testnet-rpc.itrocket.net"],
+    "api":
+    [
+        "https://testnet.warden.api.liveraven.net",
+        "https://warden-testnet-api.itrocket.net"
+    ],
+    "rpc":
+    [
+        "https://testnet.warden.rpc.liveraven.net",
+        "https://warden-testnet-rpc.itrocket.net"
+    ],
     "sdk_version": "v0.50.5",
     "logo": "/logos/warden.png",
-    "assets": [{
-        "base": "uward",
-        "symbol": "WARD",
-        "exponent": "6",
-        "coingecko_id": "WARD",
-        "logo": "/logos/warden.png"
-    }]
+    "assets":
+    [
+        {
+            "base": "award",
+            "symbol": "WARD",
+            "exponent": "18",
+            "coingecko_id": "WARD",
+            "logo": "/logos/warden.png"
+        }
+    ]
 }
-
