@@ -1,17 +1,28 @@
 {
     "chain_name": "Galactica-testnet",
     "registry_name": "Galactica",
-    "api": ["https://galactica-testnet-rest.cosmoscan.com"],
-    "rpc": ["https://galactica-testnet-rpc.cosmoscan.com"],
+    "api":
+    [
+        "https://galactica-testnet-api.itrocket.net",
+        "https://galactica-testnet-api.kzvn.xyz"
+    ],
+    "rpc":
+    [
+        "https://galactica-testnet-rpc.itrocket.net",
+        "https://galactica-testnet-rpc.kzvn.xyz"
+    ],
     "sdk_version": "v0.47.3",
     "logo": "/logos/galactica.png",
     "theme_color": "#007CB2",
     "coin_type": "118",
-    "assets": [{
-        "base": "agnet",
-        "symbol": "GNET",
-        "exponent": "18",
-        "coingecko_id": "GNET",
-        "logo": "/logos/galactica.png"
-    }]
+    "assets":
+    [
+        {
+            "base": "agnet",
+            "symbol": "GNET",
+            "exponent": "18",
+            "coingecko_id": "GNET",
+            "logo": "/logos/galactica.png"
+        }
+    ]
 }
