@@ -1,15 +1,28 @@
 {
     "chain_name": "airchains",
     "registry_name": "junction",
-    "api": ["https://airchains-testnet-api.itrocket.net"],
-    "rpc": ["https://airchains-testnet-rpc.itrocket.net"],
+    "api":
+    [
+        "https://airchains_v-testnet-api.itrocket.net",
+        "https://airchains-testnet-api.nodesphere.net",
+        "https://airchains-test-api.nodesrun.xyz"
+    ],
+    "rpc":
+    [
+        "https://airchains_v-testnet-rpc.itrocket.net",
+        "https://airchains-testnet-rpc.nodesphere.net",
+        "https://airchains-testnet-rpc.nodesrun.xyz"
+    ],
     "sdk_version": "v0.50.5",
     "logo": "/logos/junction.png",
-    "assets": [{
-        "base": "amf",
-        "symbol": "AMF",
-        "exponent": "6",
-        "coingecko_id": "AMF",
-        "logo": "/logos/junction.png"
-    }]
+    "assets":
+    [
+        {
+            "base": "amf",
+            "symbol": "AMF",
+            "exponent": "6",
+            "coingecko_id": "AMF",
+            "logo": "/logos/junction.png"
+        }
+    ]
 }
