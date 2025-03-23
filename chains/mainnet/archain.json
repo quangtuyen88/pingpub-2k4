@@ -1,6 +1,6 @@
 {
-    "chain_name": "airchains",
-    "registry_name": "junction",
+    "chain_name": "Varanasi",
+    "registry_name": "Varanasi",
     "api":
     [
         "https://airchains_v-testnet-api.itrocket.net",
